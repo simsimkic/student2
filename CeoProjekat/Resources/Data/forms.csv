@@ -1,0 +1,17 @@
+﻿interventionId,formType,description,prescriptionOrReport
+0,LabTesting,izvestaj o testiranju,0
+1,StationaryTreatment,izvestaj o boravku,0
+2,Prescription,uput,1
+0,LabTesting,laboratory results,0
+0,Specialist,specialist analasis,1
+0,LabTesting,sss,0
+0,Specialist,ssssaaaa,0
+12,LabTesting,labtesting results,0
+14,LabTesting,lab,0
+0,LabTesting,lllab,0
+0,LabTesting,lll,1
+16,Specialist,jjj,0
+17,LabTesting,results,1
+0,Specialist,spec,0
+17,Specialist,spec,0
+17,Specialist,spec,1

@@ -1,0 +1,19 @@
+﻿interventionId,doctorId,doctorFirstName,doctorLastName,patientId,prescriptionId,start,end,absence,description,interventionType
+0,2,Marko,Petrovic,3,2,6/28/2020 12:00:00 AM,1/1/0001 12:00:00 AM,True,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,examination
+1,3,Kosta,Rebic,0,0,6/25/2020 12:00:00 AM,1/1/0001 12:00:00 AM,False,,surgery
+2,2,Marko,Petrovic,0,0,6/28/2020 12:00:00 AM,1/1/0001 12:00:00 AM,False,zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz,examination
+3,1,Valentina,Trifunovic,1,0,6/25/2020 12:00:00 AM,1/1/0001 12:00:00 AM,False,pppppppppppppppppppp,examination
+4,2,Marko,Petrovic,1,0,6/29/2020 12:00:00 AM,1/1/0001 12:00:00 AM,False,qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq,surgery
+5,1,Valentina,Trifunovic,1,0,7/1/2020 12:00:00 AM,1/1/0001 12:00:00 AM,False,ajde,stationaryTreatment
+6,2,Marko,Petrovic,0,0,8/31/2020 12:00:00 AM,1/1/0001 12:00:00 AM,False,ovo je novi sadrzaj desription-a,surgery
+7,11,Sandra,Maric,0,0,6/17/2020 12:00:00 AM,1/1/0001 12:00:00 AM,False,ovo je novi sadrzaj desription-a,surgery
+8,0,Matea,Ristic,0,0,6/6/2020 12:00:00 AM,1/1/0001 12:00:00 AM,False,ovo je novi sadrzaj desription-a,surgery
+9,9,Anica,Jovanovic,0,0,6/27/2020 12:00:00 AM,1/1/0001 12:00:00 AM,False,helloo,examination
+10,10,Nikola,Tomic,0,0,6/28/2020 12:00:00 AM,1/1/0001 12:00:00 AM,False,helloo,examination
+11,9,Anica,Jovanovic,0,0,6/28/2020 12:00:00 AM,1/1/0001 12:00:00 AM,False,,examination
+12,7,Sofija,Ristovic,1,0,6/28/2020 12:00:00 AM,1/1/0001 12:00:00 AM,False,ajde,surgery
+13,10,Nikola,Tomic,1,0,6/28/2020 12:00:00 AM,1/1/0001 12:00:00 AM,False,dodaj opis,examination
+14,10,Nikola,Tomic,1,0,6/29/2020 12:00:00 AM,1/1/0001 12:00:00 AM,False,dodaj opis,stationaryTreatment
+15,2,Marko,Petrovic,0,0,6/30/2020 12:00:00 AM,1/1/0001 12:00:00 AM,False,,examination
+16,2,Marko,Petrovic,1,0,7/1/2020 12:00:00 AM,1/1/0001 12:00:00 AM,False,kk,examination
+17,2,Marko,Petrovic,3,0,6/29/2020 12:00:00 AM,1/1/0001 12:00:00 AM,False,,examination
